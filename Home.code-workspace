@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../About"
+		},
+		{
+			"path": "../Blog"
+		},
+		{
+			"path": "../Contact"
+		},
+		{
+			"path": "../Parcing"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "About"
+	}
+}
